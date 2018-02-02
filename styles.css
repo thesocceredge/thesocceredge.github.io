@@ -1,0 +1,52 @@
+.navbar-brand{
+  font-weight:bold;
+}
+#edge {
+  color:red;
+}
+body{
+  font-family: 'Heebo', sans-serif;
+  background-image: url(background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#yelp{
+  color:#e30101;
+}
+.smedia{
+  padding-left: 10PX;
+}
+h3{
+  color:white;
+}
+.page-header {
+    background-color: rgba(199, 199, 199, .6);
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    text-align: center;
+    color: #284857;
+    font-size: 1.75em;
+}
+.loc{
+    padding-right:0;
+    padding-left:0;
+    padding-bottom: 5vh
+}
+div.c-wrapper{
+    margin: auto;
+    margin-bottom: 5vh;
+}
+.about{
+  font-size: 18px;
+}
+.jumbotron{
+  margin: 5vh;
+}
+#support{
+  font-weight: bold;
+  font-size: 25px;
+  color: red;
+}
+.yelp-review{
+  margin: auto;
+}
